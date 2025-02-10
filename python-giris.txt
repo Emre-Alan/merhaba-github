@@ -1,1 +1,2 @@
 Python Eğitim
+python tarihi açıklandı.
